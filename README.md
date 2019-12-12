@@ -26,7 +26,7 @@ localhost:5000/{id}/books
 localhost:5000/{id}/books/{bid}
 ```
 
-## Test Similaryty Test
+## Text Similaryty Test
 ```
 localhost:5000/detect
 ```
